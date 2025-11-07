@@ -143,3 +143,4 @@ Le tout appliqué à un univers cohérent : **un jeu multijoueur en ligne**.
 
 Projet réalisé dans le cadre du cours d’algorithmique (M1 — Xavier Quesnot)
 👤 **Melvin Delorme (@PumixA)** — Étudiant en développement web
+👤 **Dayana Keo (@DayanaKeo)** — Étudiante en développement web
